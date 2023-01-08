@@ -1,0 +1,13 @@
+.thumbnail {
+  height: 90px;
+  width: 90px;
+  margin: 0px 5px 5px 0px;
+}
+.img-items {
+  list-style-type: none;
+}
+.thumbnail-btn {
+  cursor: pointer;
+  background-color: transparent;
+  border-width: 0px;
+}
